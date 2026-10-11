@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="jarvis_status_online">SYSTEM ONLINE</string>
+    <string name="jarvis_status_standby">STANDBY MODE</string>
+    <string name="jarvis_status_listening">LISTENING…</string>
+    <string name="jarvis_status_processing">PROCESSING PROTOCOL…</string>
+    <string name="jarvis_status_speaking">TRANSMITTING AUDIO…</string>
+    <string name="protocol_v3">ARC PROTOCOL v3.5</string>
+    <string name="stark_interface">STARK INDUSTRIES HUD</string>
+    <string name="action_call">Call Contact</string>
+    <string name="action_message">Send Message</string>
+    <string name="action_apps">Launch Apps</string>
+    <string name="action_torch">Toggle Flashlight</string>
+    <string name="action_schedule">Daily Schedule</string>
+    <string name="action_settings">Device Controls</string>
+</resources>

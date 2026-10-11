@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Jarvis personal AI assistant for complete phone control, calls, messages, app launches, settings, and daily schedule management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
